@@ -1,3 +1,3 @@
-# Manual do evento - AfroPython
-AfroPython 2018
-Teste
+# Manual de Organização do AfroPython
+
+Em Breve
