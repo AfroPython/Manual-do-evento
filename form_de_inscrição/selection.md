@@ -1,3 +1,0 @@
-# Seleção
-
-Em Breve

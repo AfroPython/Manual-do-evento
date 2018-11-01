@@ -1,3 +1,0 @@
-# Promoção
-
-Em Breve
