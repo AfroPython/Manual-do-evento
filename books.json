@@ -1,0 +1,16 @@
+{
+    "gitbook": ">=3.1.1",
+    "pdf": {
+        "fontSize": 16
+    },
+    "plugins": [
+        "github@2.0.0",
+        "heading-anchors",
+        "collapsible-chapters"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/AfroPython/Manual-do-evento"
+        }
+    }
+}
