@@ -16,6 +16,10 @@ Nós fazemos isso organizando oficinas gratuitas e convidando pessoas negras a s
 
 Nossa missão é trazer mais pessoas negras para a tecnologia, fazendo dela mais acessível, simples e amigável. Nós provemos as ferramentas, recursos e uma comunidade ajuda e apoia o aprendizado sobre tecnologia.
 
+Além do auxílio o evento tem como objetivo a abordagem de várias questões como: o empoderamento negro, a visibilidade do protagonismos negro em várias áreas, uma rede de apoio e sororidade entre todos os envolvidos.
+
+O AfroPython é muito mais que uma evento, é uma responsabilidade, uma celebração, o orgulho das nossas origens e o poder de acreditar que podemos fazer mais pelo mundo e pela comunidade negra.
+
 ## O Básico
 
 ### O que é um evento do AfroPython?
