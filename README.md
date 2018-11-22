@@ -24,7 +24,7 @@ O AfroPython é muito mais que uma evento, é uma responsabilidade, uma celebra�
 
 ### O que é um evento do AfroPython?
 
-Um evento AfroPython é uma oficina de um dia com uma abertura realizada na noite anterior que pode ser presencial ou remota (via Google Hangout/Skype). Durante o dia, as pessoas participantes trabalham em grupos pequenos (3 participantes e 1 pessoa treinadora) seguindo o [Tutorial](https://afropython.gitbook.io/tutorial/) com o objetivo de criar um blog e implantá-lo na internet.
+Um evento AfroPython é uma oficina de um dia com uma abertura realizada na noite anterior(essa abertura é opcional, se você não possuir recursos ou tempo para isso, tudo bem) que pode ser presencial ou remota (via Google Hangout/Skype). Durante o dia, as pessoas participantes trabalham em grupos pequenos (3 participantes e 1 pessoa treinadora) seguindo o [Tutorial](https://afropython.gitbook.io/tutorial/) com o objetivo de criar um blog e implantá-lo na internet.
 
 Eventos do AfroPython são obrigatoriamente não lucrativos e gratuitos às pessoas participantes. Nós não pagamos as pessoas treinadoras, palestrantes ou organizadoras. Participantes não necessitam de nenhum conhecimento prévio sobre programação e não há limite de idade. Tudo que as pessoas participantes precisam é curiosidade e vontade de aprender.
 
