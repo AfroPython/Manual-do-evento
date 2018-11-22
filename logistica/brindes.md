@@ -2,7 +2,7 @@
 
 ## Camisetas
 
-Encomende camisetas para as pessoas treinadoras como um presente. Isso também é útil para deixar essas pessoas mais visíveis e identificáveis durante o evento. Você pode encontrar designs de camisetas e outras coisas mais [aqui](recursos/README.md)
+Encomende camisetas para as pessoas treinadoras como um presente. Isso também é útil para deixar essas pessoas mais visíveis e identificáveis durante o evento. Você pode encontrar designs de camisetas e outras coisas mais [aqui](../recursos/README.md)
 
 ## Brindes
 
