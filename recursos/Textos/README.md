@@ -1,5 +1,4 @@
-Templates de Texto
-==============
+# Templates de Texto
 
 Nessa pasta estão alguns templates que você pode utilizar ou se basear na hora de se comunicar com as pessoas envolvidas no evento.
 
