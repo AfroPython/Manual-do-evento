@@ -16,7 +16,6 @@
     * [Participantes Cegos ou com Baixa Visão](acessibilidade/cegos_baixa_visao.md)
     * [Participantes Surdos ou com Dificuldade auditiva](acessibilidade/surdos_dificuldade_auditiva.md)
     * [Site e Inscrição](acessibilidade/site.md)
-    * [Outros Recursos](acessibilidade/outros_recursos.md)
 * [Custos](custos/README.md)
 * [Patrocinadores](patrocinadores/README.md)
     * [Encontrar Patrocinadores](patrocinadores/encontrar_patrocinadores.md)
