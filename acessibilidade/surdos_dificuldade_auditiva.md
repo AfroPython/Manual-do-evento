@@ -1,3 +1,3 @@
 # Participantes Surdos ou com Dificuldade auditiva
 
-Em breve
+Novamente, participantes surdos ou com dificuldade auditiva se darão melhor com pessoas treinadoras flexíveis. Fale com as pessoas treinadoras para elas se comunicarem através de texto durante o tutorial. Lembre as pessoas treinadoras de olhar para a pessoa participante enquanto fala com ela, ela pode saber ler lábios. Descubra se algum participante trará interprete para certificar-se de que não faltará comida. Dependendo do seu orçamento, veja se é possível contratar uma pessoa intérprete de LIBRAS.

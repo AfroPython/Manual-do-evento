@@ -1,3 +1,3 @@
 # Site e Inscrição
 
-Em Breve
+Não espere as pessoas participantes perguntarem que tipo de acomodações você será capaz de prover. Seja sincero sobre o que você será capaz de fazer. Isso irá encorajar pessoas que precisam de certos recursos a se inscreverem, uma vez que elas saberão que vão conseguir participar e que são bem vindas no seu evento. Ser específico com sua lista de acomodações mostrará as pessoas participantes em potencial que você está trabalhando para criar um espaço onde o acesso e a inclusão sejam prioridades.
