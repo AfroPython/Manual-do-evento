@@ -6,5 +6,4 @@ Como conseguir patrocinadores pode soar assustador, mas não é tão difícil. N
 
 - [Encontrar patrocinadores](./encontrar_patrocinadores.md)
 - [Modelo de e-mail](./modelo_email.md)
-- [Patrocínio do GitHub](./patrocinio_github.md)
 - [Lidando com o dinheiro](./lidando_dinheiro.md)

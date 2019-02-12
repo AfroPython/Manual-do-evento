@@ -20,7 +20,6 @@
 * [Patrocinadores](patrocinadores/README.md)
     * [Encontrar Patrocinadores](patrocinadores/encontrar_patrocinadores.md)
     * [Modelo de Email](patrocinadores/modelo_email.md)
-    * [Patrocínio do GitHub](patrocinadores/patrocinio_github.md)
     * [Lidando com Dinheiro](patrocinadores/lidando_dinheiro.md)
     * [Patrocínios Passados](patrocinadores/patrocinios_passados.md)
 * [Recursos](recursos/README.md)
