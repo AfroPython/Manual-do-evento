@@ -10,7 +10,7 @@ Os Eventos do AfroPython são para todos. Nós queremos ter um ótimo dia cercad
 
 Desde selfies, abraços e palavras de incentivo, deixe que as pessoas saibam que são incríveis e estão fazendo um bom trabalho, crie amizades.
 
-## Code of Conduct
+## Código de Conduta
 
 Cada evento segue e impõe nosso [Código de Conduta](https://github.com/AfroPython/afropython-site/wiki/C%C3%B3digo-de-Conduta). O CdC é uma série de regras que visam promover um ambiente seguro e inclusivo para pessoas de diferentes gêneros, religiões, sexualidades, classes sociais e jornadas.
 
