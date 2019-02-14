@@ -2,7 +2,7 @@
 
 Infelizmente, você também vai precisar lidar com o dinheiro para o evento. Você pode fazer isso de algumas maneiras:
 
-- A maneira mais simples é conectar um fornecedor direto a um patrocinador. Exemplo, a empresa que fará o patrocínio do almoço paga direto ao restaurante onde será feita a refeição no dia do evento. Provavelmente esse é o meio mais simples.
+- A maneira mais simples é conectar um fornecedor direto com um patrocinador. Exemplo, a empresa que fará o patrocínio do almoço paga direto ao restaurante onde será feita a refeição no dia do evento. Provavelmente esse é o meio mais simples.
 
 Vantagens:
 
