@@ -1,6 +1,6 @@
 # Como encontrar Patrocinadores
 
-Nós procuramos patrocinadores que são ativos na comunidade local de tecnologia, de startups até grandes corporações, incluindo organizações não governamentais(ONGs).
+Nós procuramos patrocinadores alinhados com nosso código de conduta na comunidade local de tecnologia, de startups até grandes corporações, incluindo organizações não governamentais(ONGs).
 
 Além disso, empresas que não são da área de tecnologia podem ser abordadas: marcas de bebidas, restaurantes locais e etc. Todas podem ter interesse ou alguma relação com tecnologia.
 
