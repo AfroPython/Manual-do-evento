@@ -31,7 +31,7 @@ Recomendamos perguntar aos patrocinadores sobre seus objetivos ao patrocinar o e
 
 Se você tiver um tempinho para isso, nós recomendamos fortemente a criação de um plano simples de patrocínio - Um PDF com algumas páginas. Diga quem é você, o que é o AfroPython e porque é incrível participar, quem vai vir ao evento e sobre valor para os patrocinadores ao apoiar o movimento.
 
-Você pode usar o [plano de patrocínio](https://github.com/DjangoGirls/resources/tree/master/For%20Sponsors) preparado por nós.
+Você pode usar o [plano de patrocínio](https://github.com/DjangoGirls/resources/tree/master/For%20Sponsors) preparado pelo Django girls como referência.
 
 Os valores vão depender do seu orçamento para o evento, é comum que paguem por exemplo o almoço, ou as bebidas, lanche da tarde do evento. Não se esqueça toda contribuição é importante.
 
