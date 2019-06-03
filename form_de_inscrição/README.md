@@ -6,6 +6,5 @@ Em cada evento aprendemos um pouco mais sobre esse processo e deixamos esses apr
 
 ## Tabela de conteúdo do capitulo:
 - [Abertura de Inscrição](form_de_inscrição/abertura_inscricao.md)
-- [Criando e Gerindo a Inscrição](form_de_inscrição/create_manage_form.md)
 - [Seleção](form_de_inscrição/selection.md)
 - [Comunicação](form_de_inscrição/cominicacao.md)
