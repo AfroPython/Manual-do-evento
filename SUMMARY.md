@@ -33,7 +33,6 @@
     * [Quando estiver pronto](site/quando_pronto.md)
 * [Processo de Inscrição](form_de_inscrição/README.md)
     * [Abertura de Inscrição](form_de_inscrição/abertura_inscricao.md)
-    * [Criando e Gerindo a Inscrição](form_de_inscrição/create_manage_form.md)
     * [Seleção](form_de_inscrição/selection.md)
     * [Comunicação](form_de_inscrição/cominicacao.md)
 * [Parcerias](parcerias/README.md)
