@@ -1,3 +1,0 @@
-# Patrocinadores
-
-Em Breve

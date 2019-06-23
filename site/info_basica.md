@@ -1,3 +1,0 @@
-# Informações Básicas
-
-Em Breve
