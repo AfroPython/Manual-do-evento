@@ -1,3 +1,0 @@
-# Outros Recursos
-
-Em Breve
