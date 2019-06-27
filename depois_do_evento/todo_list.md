@@ -20,17 +20,18 @@ O Objetivo das oficinas do AfroPython é instruir futuras e futuros desenvolvedo
 
 É importante recolher feedbacks de participantes e pessoas treinadoras depois da oficina. O que funcionou? O que não deu certo? O que poderia ser melhor? Essas perguntas são muito importantes e é ótimo ter essas respostas antes de organizar uma próxima edição, certo?
 
-Certifique-se de que os formulários sejam anônimos. Saiba que se voê perguntas os nomes de coaches por exemplo, o formulário deixa de ser anônimo.
+Certifique-se de que os formulários sejam anônimos. Saiba que se você perguntar os nomes de coaches por exemplo, o formulário deixa de ser anônimo.
 
 ## Conta pra gente como foi!
 
 Depois do evento, você pode entrar em contato com a gente por [email](mailto:afropython@gmail.com) respondendo as seguintes perguntas:
 
-1. Número de participantes
-2. Numero de aplicantes
-3. Qual foi a coisa mais importante que vocês descobrir durante a oficina
-4. Como podemos melhorar o AfroPython
-5. Quais foram os custos totais do evento? Foi possível cobrir tudo com o dinheiro obtido através de patrocínios?
-6. Alguma coisa que você queira compartilhar conosco?
+1. Número de participantes selecionadas(os)
+2. Número de pessoas treinadoras selecionadas
+3. Número de inscritas(os) (pessoas treinadoras e participantes)
+4. Qual foi a coisa mais importante que vocês descobrir durante a oficina
+5. Como podemos melhorar o AfroPython
+6. Quais foram os custos totais do evento? Foi possível cobrir tudo com o dinheiro obtido através de patrocínios?
+7. Alguma coisa que você queira compartilhar conosco?
 
 Essa etapa não é obrigatória, mas ficaríamos muito felizes em saber como foi o evento. Muito obrigada <3
