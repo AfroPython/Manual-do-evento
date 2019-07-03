@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Essa sessão conterá exemplos de meetups do bem sucedidos do AfroPython. Sinta-se a vontade para contribuir.
+Essa sessão conterá exemplos de meetups já realizados pelo AfroPython. Sinta-se a vontade para contribuir.
 
 ## Examples
 

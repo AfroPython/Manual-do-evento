@@ -2,7 +2,7 @@
 
 Parabéns, você conseguiu! E nós queremos saber tudinho sobre como foi :)
 
-## Tabela de conteúdo do capitulo
+## Tabela de conteúdo do capítulo
 
 - [Afazeres pós evento](todo_list.md)
 - [Próximos Eventos](proximo_evento.md)

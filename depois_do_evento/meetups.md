@@ -46,5 +46,4 @@ Dependendo da duração do seu Meetup você pode:
 
 Várias pessoas confirmaram presença mas não compareceram? Não se preocupe, existem algumas dificuldades em Meetups gratuítos e baixas são bem comuns. Faça uma média da quantas pessoas normalmente vão nos eventos para entender melhor o que pode estar acontecendo.
 
-Também é importante pedir feedback para conhecer melhor as necessidades do seu publico e seguir melhorando a cada Meetup.
-s
+Também é importante pedir feedback para conhecer melhor as necessidades do seu público e seguir melhorando a cada Meetup.
