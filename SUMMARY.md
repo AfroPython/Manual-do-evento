@@ -30,7 +30,7 @@
   - [Comunicação](form_de_inscrição/comunicacao.md)
 - [Parcerias](parcerias/README.md)
   - [Logística](parcerias/logistica.md)
-  - [Estande do Evento](parcerias/estande.md)
+  - [Estande durante o Evento](parcerias/estande.md)
 - [Depois do Evento](depois_do_evento/README.md)
   - [Afazeres Pós Evento](depois_do_evento/todo_list.md)
   - [Próximos Eventos](depois_do_evento/proximo_evento.md)
