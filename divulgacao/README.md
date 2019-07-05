@@ -16,13 +16,13 @@ Consulte o [capítulo de recursos](../recursos/README.md) para encontrar logos, 
 
 ## Universidades Locais
 
-Estudantes e professores são um grupo bem ativo de pessoas que buscam aprender coisas novas. Não é necessário focar apenas em universidades técnicas. Tente alcançar pessoas de diferentes backgrounds. Aqui vai algumas coisas que podem ser feitas:
+Estudantes e professores são um grupo bem ativo de pessoas que buscam aprender coisas novas. Não é necessário focar apenas em universidades técnicas. Tente alcançar pessoas de diferentes origens. Aqui vai algumas coisas que podem ser feitas:
 
 1. Prepare um email simples que você possa enviar para as universidades e peça que eles passem a mensagem para os estudantes e instituição.
 
 2. Encontre grupos e comunidades de estudantes no Facebook e poste informações sobre oficinas e meetups nesses espaços.
 
-3. Imprima alguns posters e pergunte as universidades se você pode pendurá-los em alguns lugares
+3. Imprima alguns posters e pergunte as universidades se você pode pendurá-los em alguns lugares.
 
 ## Meetups Locais
 
