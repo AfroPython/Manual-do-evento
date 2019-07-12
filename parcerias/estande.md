@@ -6,7 +6,7 @@ Algumas dicas para ter um estande de sucesso:
 
 ## Logística
 
-* O estande deve ser operado por pelo menos 1 treinador(a) / organizador(a) e 1 a 2 participantes, para que as pessoas possam aprender sobre as diferentes perspectivas do projeto. A maneira mais fácil de configurar isso é criar um Doodle com intervalos de tempo para cada "turno" e pedir aos participantes que "votem" nos horários em que podem participar.
+* O estande deve ser operado por pelo menos 1 treinador(a) / organizador(a) e 1 a 2 participantes, para que as pessoas possam aprender sobre as diferentes perspectivas do projeto. A maneira mais fácil de configurar isso é criar um [Doodle](https://doodle.com) com intervalos de tempo para cada "turno" e pedir aos participantes que "votem" nos horários em que podem participar.
 * Anote e dê atenção especial a todos os horários de pico no estande, como almoço, coffee breaks, café da manhã, e certifique-se de que as(os) principais organizadora(es) estejam presentes durante esses horários.
 * Certifique-se de que a conferência ofereça pelo menos 1-2 adaptadores de energia / cabos de extensão, pois as conferências nem sempre fornecem! Opcional: Arrange um monitor onde você pode executar uma apresentação de slides de fotos anteriores das oficinas do AfroPython, demonstrar o tutorial em ação, etc.
 
