@@ -1,3 +1,24 @@
-# Faça Você Mesmo
+# Faça Você Mesma: Como fazer sua oficina bonitona dentro do orçamento
 
-Em Breve
+Nós brilhamos ao tornar o tutorial do AfroPython uma experiência incrível. Se você der uma olhada nas fotos de outras oficinas verá que tem camisas incríveis, brindes e um monte de coisas legais. Esses são elementos que fazem da oficina do Django Girls algo único e divertido.
+
+Mas nós não queremos deixar a impressão de que para ter uma oficina de sucesso é preico ter toda a decoração, fazer vídeos e tudo mais. Nós acreditamos que essas coisas fazem a oficina especial mas ao mesmo tempo não existe a necessidade de gastar um monte de dinheiro em coisas caras que não são necessárias.
+
+Este capítulo vai te dar dicas e exemplos, como - com um pouco de faça você mesmo, boas ideias e - você pode criar um experiência incrível com bem pouco dinheiro.
+
+## Materiais com direitos autorais
+
+Se você encontrar um design legal (isso serve para foto, fonte, desenho, etc) que você adoraria usar durante o seu evento, **não se esqueça de verificar a licença.** Só utilize materiais que grátis ou pague pela licença de uso. Se não encontrar a licença, por favor não utilize.
+
+## Compartilhando
+
+Se uma oficina tinha um lindo banner do AfroPython que você adoraria ter no seu onde as pessoas pudessem tirar fotos e você gostaria de ter no seu também. Vários das oficinas que compartilham decorações, adesivos e brindes. Talvez a oficina tenha alguns brindes disponíveis e você não precise utilizar o seu orçamento para isso. Apenas peça o contato dos organizadores pelo e-mail do AfroPython para solicitar e talvez você possa ter isso emprestado a você.
+
+Para criar uma atmosfera incrível, você não precisa de um monte de dinheiro. Com um pouco de esforço e ajuda de amigos, você consegue criar coisas incríveis com um orçamento pequeno. Garanta que você compartilhou suas ideias com a organização também.
+
+# Tabela de conteúdo desse capítulo:
+
+- [Decoração](decoração.md)
+- [Comida](comida.md)
+- [Fotos](fotos.md)
+- [Extras](extras.md)
