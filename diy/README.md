@@ -1,6 +1,6 @@
 # Faça Você Mesma: Como fazer sua oficina bonitona dentro do orçamento
 
-Nós brilhamos ao tornar o tutorial do AfroPython uma experiência incrível. Se você der uma olhada nas fotos de outras oficinas verá que tem camisas incríveis, brindes e um monte de coisas legais. Esses são elementos que fazem da oficina do Django Girls algo único e divertido.
+Nós brilhamos ao tornar o tutorial do AfroPython uma experiência incrível. Se você der uma olhada nas fotos de outras oficinas verá que tem camisas incríveis, brindes e um monte de coisas legais. Esses são elementos que fazem da oficina do AfroPython algo único e divertido.
 
 Mas nós não queremos deixar a impressão de que para ter uma oficina de sucesso é preico ter toda a decoração, fazer vídeos e tudo mais. Nós acreditamos que essas coisas fazem a oficina especial mas ao mesmo tempo não existe a necessidade de gastar um monte de dinheiro em coisas caras que não são necessárias.
 
