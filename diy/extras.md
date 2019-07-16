@@ -1,6 +1,6 @@
 # Extras
 
-Não é sempre que se tem a grana para fazer camisas do AfroPython com aquelas capulanas maneiras para todas(os) participantes. Nós temos alguma dicas para preparar algo legal para participantes e treinadoras(es) sem precisar gastar uma fortuna nisso.
+Nós sabemos que todos querem ter uma camiseta do AfroPython, mas também sabemos que não é sempre que se tem a grana para fazer nossas camisetas com aquelas capulanas maneiras para todas(os) participantes. Nós temos alguma dicas para preparar algo legal para participantes e treinadoras(es) sem precisar gastar uma fortuna nisso.
 
 - Em geral, pedir sacolas ecológicas são mais baratas do que pedir camisas, caso não se tenha grana para isso. De qualquer forma tome cuidado para que seja um produto que não estrague fácil antes de pedir um monte deles. Mande um e-mail para o AfroPython para pedir o modelo que usamos em eventos passados.
 

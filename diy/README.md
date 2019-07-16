@@ -2,13 +2,13 @@
 
 Nós brilhamos ao tornar o tutorial do AfroPython uma experiência incrível. Se você der uma olhada nas fotos de outras oficinas verá que tem camisas incríveis, brindes e um monte de coisas legais. Esses são elementos que fazem da oficina do Django Girls algo único e divertido.
 
-Mas nós não queremos deixar a impressão de que para ter uma oficina de sucesso é preico ter toda a decoração, fazer vídeos e tudo mais. Nós acreditamos que essas coisas fazem a oficina especial mas ao mesmo tempo não existe a necessidade de gastar um monte de dinheiro em coisas caras que não são necessárias.
+Mas nós não queremos deixar a impressão de que para ter uma oficina de sucesso é preciso ter toda a decoração, fazer vídeos e tudo mais. Nós acreditamos que essas coisas fazem a oficina especial mas ao mesmo tempo não existe a necessidade de gastar um monte de dinheiro em coisas caras que não são necessárias.
 
 Este capítulo vai te dar dicas e exemplos, como - com um pouco de faça você mesmo, boas ideias e - você pode criar um experiência incrível com bem pouco dinheiro.
 
 ## Materiais com direitos autorais
 
-Se você encontrar um design legal (isso serve para foto, fonte, desenho, etc) que você adoraria usar durante o seu evento, **não se esqueça de verificar a licença.** Só utilize materiais que grátis ou pague pela licença de uso. Se não encontrar a licença, por favor não utilize.
+Se você encontrar um design legal (isso serve para foto, fonte, desenho, etc) que você adoraria usar durante o seu evento, **não se esqueça de verificar a licença.** Só utilize materiais grátis ou pague pela licença de uso. Se não encontrar a licença, por favor não utilize.
 
 ## Compartilhando
 
