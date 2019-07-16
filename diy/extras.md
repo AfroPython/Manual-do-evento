@@ -6,4 +6,4 @@ Não é sempre que se tem a grana para fazer camisas do AfroPython com aquelas c
 
 - Se essas opções ainda forem mais caras do que o orçamento permite, podem se preparar pequenos pacotes  brindes que foram oferecidos pelos patrocinadores. Algumas outras coisinhas com adesivos e bilhetes escritos a mão podem ser um ótimo presente, algo como "Muito obrigado por vir! Ubuntu!".
 
-Não se esqueça o objetivo não é ter o mais caro e impressionante brindes para todo mundo mas sim mostrar para as pessoas como elas são importantes e nos importamos com ela. Apenas para fazer as pessoas se sentirem especiais como são.\
+Não se esqueça o objetivo não é ter o mais caro e impressionante brinde para todo mundo mas sim mostrar para as pessoas como elas são importantes e nos importamos com ela. Apenas para fazer as pessoas se sentirem especiais como são.
