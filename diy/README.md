@@ -4,7 +4,7 @@ Nós brilhamos ao tornar o tutorial do AfroPython uma experiência incrível. Se
 
 Mas nós não queremos deixar a impressão de que para ter uma oficina de sucesso é preico ter toda a decoração, fazer vídeos e tudo mais. Nós acreditamos que essas coisas fazem a oficina especial mas ao mesmo tempo não existe a necessidade de gastar um monte de dinheiro em coisas caras que não são necessárias.
 
-Este capítulo vai te dar dicas e exemplos, como - com um pouco de faça você mesmo, boas ideias e - você pode criar um experiência incrível com bem pouco dinheiro.
+Este capítulo vai te dar dicas e exemplos de como criar uma experiência incrível com poucos gastos.
 
 ## Materiais com direitos autorais
 
