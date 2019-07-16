@@ -1,6 +1,6 @@
-# Comida é algo que tem em várias oficinas
+# Comida
 
-Esse é um elemento importante na oficina do AfroPython, a gente tenta ter pelo menos 2 refeições um lanche e uma refeição principal como almoço, mas o ideal é 3 com 2 lanches e uma refeição principal para ninguém ficar com fome. **Não se esqueça de verificar as restrições alimentares, como alergias, veganos, vegetariános, celíacos, intolerâncias a leite e glúten, por exemplo.**
+Esse é um elemento importante na oficina do AfroPython, pois no caso de oficinas, geralmente elas podem durar o dia inteiro, então a gente tenta ter pelo menos 2 refeições um lanche e uma refeição principal como almoço, mas o ideal é 3 com 2 lanches e uma refeição principal para ninguém ficar com fome. **Não se esqueça de verificar as restrições alimentares, como alergias, veganos, vegetariános, celíacos, intolerâncias a leite e glúten, por exemplo.**
 
 
 
