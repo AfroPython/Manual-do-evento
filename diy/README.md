@@ -12,7 +12,7 @@ Se você encontrar um design legal (isso serve para foto, fonte, desenho, etc) q
 
 ## Compartilhando
 
-Se uma oficina tinha um lindo banner do AfroPython que você adoraria ter no seu onde as pessoas pudessem tirar fotos e você gostaria de ter no seu também. Vários das oficinas que compartilham decorações, adesivos e brindes. Talvez a oficina tenha alguns brindes disponíveis e você não precise utilizar o seu orçamento para isso. Apenas peça o contato dos organizadores pelo e-mail do AfroPython para solicitar e talvez você possa ter isso emprestado a você.
+Várias das oficinas compartilham decorações, adesivos e brindes, então talvez alguma oficina ainda tenha alguns brindes disponíveis para doação, logo você não precisaria utilizar o seu orçamento para isso. Apenas peça o contato dos organizadores pelo e-mail do AfroPython para solicitar e talvez você possa ter alguns brindes emprestado a você.
 
 Para criar uma atmosfera incrível, você não precisa de um monte de dinheiro. Com um pouco de esforço e ajuda de amigos, você consegue criar coisas incríveis com um orçamento pequeno. Garanta que você compartilhou suas ideias com a organização também.
 
