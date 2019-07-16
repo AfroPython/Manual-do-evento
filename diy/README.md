@@ -8,7 +8,7 @@ Este capítulo vai te dar dicas e exemplos, como - com um pouco de faça você m
 
 ## Materiais com direitos autorais
 
-Se você encontrar um design legal (isso serve para foto, fonte, desenho, etc) que você adoraria usar durante o seu evento, **não se esqueça de verificar a licença.** Só utilize materiais que grátis ou pague pela licença de uso. Se não encontrar a licença, por favor não utilize.
+Se você encontrar um design legal (isso serve para foto, fonte, desenho, etc) que você adoraria usar durante o seu evento, **não esqueça de verificar a licença.** Só utilize materiais grátis ou pague pela licença de uso. Se não encontrar a licença, por favor não utilize.
 
 ## Compartilhando
 
